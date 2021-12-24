@@ -34,7 +34,7 @@ GET
 sso 访问地址可通过 cloud_info.sso_server 获取。
 
 ```
-https:``//account.qingcloud.com/sso/oauth2?response_type=code&client_id=app-8r2f7oyr
+https://account.qingcloud.com/sso/oauth2?response_type=code&client_id=app-8r2f7oyr
 ```
 
 **登录成功**
